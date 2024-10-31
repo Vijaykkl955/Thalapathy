@@ -6,7 +6,7 @@
 class script(object):
     START_TXT = """<b>𝖧𝖾𝗒 {}, <a href=https://t.me/{}></a>
 
-𝖨 𝖺𝗆 𝖠 𝖥𝗂𝗅𝗍𝖾𝗋 𝖡𝗈𝗍 𝖮𝖿𝖿𝗂𝖼𝗂𝖺𝗅𝗅𝗒 𝖬𝖺𝖽𝖾 𝖡𝗒 𝖳𝖾𝖺𝗆 <a herf="https://t.me/Tamil_Mini">@𝖳𝖺𝗆𝗂𝗅 𝖬𝗂𝗇𝗂</a>
+𝖨 𝖺𝗆 𝖠 𝖥𝗂𝗅𝗍𝖾𝗋 𝖡𝗈𝗍 𝖮𝖿𝖿𝗂𝖼𝗂𝖺𝗅𝗅𝗒 𝖬𝖺𝖽𝖾 𝖡𝗒 𝖳𝖾𝖺𝗆 @Thalaiva_Moviez
 
 𝖧𝖾𝗋𝖾 𝖸𝗈𝗎 𝖢𝖺𝗇 𝖱𝖾𝗊𝗎𝖾𝗌𝗍 𝖬𝗈𝗏𝗂𝖾/𝖲𝖾𝗋𝗂𝖾𝗌, 𝖩𝗎𝗌𝗍 𝖲𝖾𝗇𝗍 𝖬𝗈𝗏𝗂𝖾/𝖲𝖾𝗋𝗂𝖾𝗌 𝖭𝖺𝗆𝖾 𝖶𝗂𝗍𝗁 𝖯𝗋𝗈𝗉𝖾𝗋 <a href="https://google.com">𝖦𝗈𝗈𝗀𝗅𝖾</a> 𝖲𝗉𝖾𝗅𝗅𝗂𝗇𝗀..!!</b>"""
 
@@ -113,9 +113,9 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
 my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=https://t.me/tmv_admin_bot>☢VJ☢</a></b>
+ <b>✯ Maintained by : <a href=https://t.me/Thalaiva_Moviez>☢VJ☢</a></b>
   
- <b>✯ Join here : <a href=https://t.me/Tamil_Mini>☢Join my updateds☢</a></b> 
+ <b>✯ Join here : <a href=https://t.me/Thalaiva_Moviez>☢Join my updateds☢</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
@@ -704,13 +704,13 @@ Also your tutorial will be Added Your Group..."""
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developers -
 
--Dev 1 [Owner of this bot ]<a href='https://t.me/Mini_Request'>VJ</a>
+-Dev 1 [Owner of this bot ]<a href='https://t.me/Thalaiva_Moviez'>VJ</a>
 
--Dev 2 <a href='https://t.me/Tamil_Mini'>VJ</a>
+-Dev 2 <a href='https://t.me/Thalaiva_Moviez'>VJ</a>
 
--Dev 3 <a href='https://t.me/Tamil_Mini>VJ Botz</a>
+-Dev 3 <a href='https://t.me/Thalaiva_Moviez>VJ Botz</a>
 
-- Dev 4 <a href='https://t.me/Tamil_Mini'>TEAM VJ</a>
+- Dev 4 <a href='https://t.me/Thalaiva_Moviez'>TEAM VJ</a>
 """
 
     RENAME_TXT = """

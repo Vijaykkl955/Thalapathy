@@ -27,7 +27,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ],[
-            InlineKeyboardButton('✪ Movie Group ', url="https://t.me/Thalaiva_Moviez"),
+            InlineKeyboardButton('✪ Movie Group ', url="https://t.me/+O7vsxhAV2QIyZDJl"),
             InlineKeyboardButton('⌬ Main Channel ', url='https://t.me/Thalaiva_Moviez')
         ],[
             InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
